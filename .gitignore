@@ -1,0 +1,19 @@
+# Environment variables
+.env
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Qdrant local database
+qdrant_storage/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -702,11 +702,11 @@ This project demonstrates practical experience with:
 
 # Author
 
-**Selva**
+**TusharKamble**
 
-B.Tech — Artificial Intelligence & Data Science
+B.Tech — Artificial Intelligence & Machine Learning
 
-GitHub: `https://github.com/selvasri58`
+GitHub: `https://github.com/tusharkamble2127`
 
 ---
 
